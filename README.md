@@ -18,3 +18,7 @@ Challenge of creating a phishing scam in the DIO cybersecurity course.
 - Attack method: ``` Site Cloner ```
 - Getting the machine address: ``` ifconfig ```
 - URL to clone: ``` http://www.facebook.com/ ```
+
+### Screenshot
+
+![Setoolkit in Kali Linux.](https://github.com/paulootaviodev/dio-cybersecurity-phishing-challenge/blob/main/Screenshot%20from%202025-09-15%2020-03-40.png "setoolkit")
